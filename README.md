@@ -2,7 +2,7 @@ FocalMechClassifier
 ===================
 
 For reproducibility, we demo the code using the dataset provide
-with the USGS HASH code, http://earthquake.usgs.gov/research/software/index.php.
+with the USGS HASH code, https://www.usgs.gov/software/hash-12.
 
 Download the hash.v1.2.tar.gz, unpack it and copy the north1.phase
 and scsn.reverse datafiles into the "demo" directory of this project.
